@@ -5,7 +5,7 @@ import google.generativeai as genai
 from pypdf import PdfReader
 
 
-genai.configure(api_key = "AIzaSyCz5qpUm80NH2J_uvt5-5xv4cJiqBDR0kw")
+genai.configure(api_key = "AIzaSyCyKatw70PkWJBE_O_o4zUhyEm2pnJqIA0")
 
 chat_model = genai.GenerativeModel('gemini-pro')
 
